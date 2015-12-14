@@ -1,0 +1,82 @@
+.resumePage {
+	margin-left:  50px;
+	margin-right: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border: 1px;
+	border-style: solid;
+	border-color: #000059;
+    background-image: url("http://www.commentnation.com/hotlinks/gray_marbled_paper_background_texture_seamless.jpg");
+}
+.name {
+	font-family: Helvetica;
+	color: #000059;
+	text-align: center;
+	padding-bottom: 10px;
+
+}
+
+.contact{
+	font-family: Helvetica;
+	text-align: center;
+	color: #000000;
+	padding-bottom: 20px;
+
+
+}
+.bold_same_line{
+	
+	font-family: Helvetica;
+	font-weight: bold;
+	display: inline;
+	color: #000059;
+
+}
+.boldLine{
+	
+	font-family: Helvetica;
+	font-weight: bold;
+	padding-left: 100px;
+	
+	padding-bottom: 10px;
+	color: #000059; 
+
+}
+
+.boldBlock{
+	
+	font-family: Helvetica;
+	font-weight: bold;
+	padding-left: 100px;
+	display: inline;
+	padding-bottom: 10px; 
+	color: #000059;
+
+}
+.bulletList{
+	font-family: Helvetica;
+	padding-left: 150px;
+	padding-bottom: 20px;
+}
+.blockText{
+	
+	font-family: Helvetica;
+	color: #000000;
+	padding-left: 100px; 
+	padding-bottom: 20px;
+	margin-right: 100px;
+}
+.block_same_line{
+	display: inline; 
+	font-family: Helvetica;
+	color: #000000;
+	
+	
+
+}
+.para{
+	margin-left:  100px;
+	margin-right: 100px;
+	padding-bottom: 20px;
+
+}
